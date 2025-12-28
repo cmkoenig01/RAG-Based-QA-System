@@ -22,7 +22,7 @@ A Retrieval-Augmented Generation (RAG) application that allows users to upload d
 
 ---
 
-## ⚙️ Setup, Environment, and Run Instructions
+## Setup, Environment, and Run Instructions
 
 Follow the steps below to install dependencies, configure environment variables, and run the application.
 
