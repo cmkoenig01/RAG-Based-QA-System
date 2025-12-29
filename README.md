@@ -16,7 +16,8 @@ A Retrieval-Augmented Generation (RAG) application that allows users to upload d
 ## Tech Stack
 - Python  
 - IBM Watsonx  
-- LangChain  
+- LangChain
+- Hugging Face
 - ChromaDB  
 - Gradio  
 
